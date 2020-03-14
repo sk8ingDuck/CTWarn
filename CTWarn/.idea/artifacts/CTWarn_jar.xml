@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CTWarn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CTWarn_jar</output-path>
+    <root id="archive" name="CTWarn.jar">
+      <element id="module-output" name="CTWarn" />
+    </root>
+  </artifact>
+</component>
